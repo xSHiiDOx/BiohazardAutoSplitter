@@ -9,7 +9,7 @@ by SHiiDO (twitch.tv/xshiidox - Discord: SHiiDO#4555)<br>
 Last updated: 08-28-2020<br>
 
 Special thanks to:<br>
-clix_gaming | Daranzanjoll | deserteagle417 | DocNiederrheiner | MrZombieUK | OcNr1 | SephJul | StevenMayte | WitchRain
+clix_gaming | Daranzanjoll | deserteagle417 | DocNiederrheiner | MrZombieUK | OcNr1 | Raclesis | SephJul | StevenMayte | WitchRain
 
 pictured version: LINK
 
