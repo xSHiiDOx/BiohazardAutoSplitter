@@ -6,10 +6,10 @@ R E A D M E
 BIOHAZARD / RESIDENT EVIL 1 (c) 1996 Capcom<br>
 Autosplitter for speedrunning with Livesplit<br>
 by SHiiDO (twitch.tv/xshiidox - Discord: SHiiDO#4555)<br>
-Last updated: 08-28-2020<br>
+Last updated: 09-04-2020<br>
 
-Special thanks to:<br>
-clix_gaming | Daranzanjoll | deserteagle417 | DocNiederrheiner | MrZombieUK | OcNr1 | Raclesis | SephJul | StevenMayte | WitchRain
+<b>Special thanks to:<br>
+clix_gaming | Daranzanjoll | deserteagle417 | DocNiederrheiner | MrZombieUK | OcNr1 | Raclesis | SephJul | StevenMayte | WitchRain</b>
 
 pictured version: LINK
 
