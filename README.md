@@ -41,15 +41,42 @@ NOTE: The old autosplitters will only work with the old split-files because the 
 - Livesplit will download the autosplitter automatically (if not: Splits Editor - Game Name: "Biohazard" or "Resident Evil")
 - Open "Splits Editor" (right click - edit layout)
 - You need to rename the following splits (without "" - watch caption) (if you don't know what rooms are mentioned, please watch the pictured Readme - link above):
-- > Last Mansion 1 split (the room you get the crank after setting in the crests): <br>"Mansion 1"
-- > Last Courtyard split before entering Guardhouse: <br>"Courtyard 1"
-- > Last Guardhouse split (the hallway): <br>"Guardhouse"
-- > Last Courtyard split before reentering Mansion (where you see the two dogs for the first time when you leave the mansion): <br>"Courtyard 2"
-- > Last Mansion 2 split (crank room again): <br>"Mansion 2"
-- > Last Courtyard split before going into Underground (where the waterfall is was hiding the ladder): <br>"Courtyard 3"
-- > Last Underground split before entering labs (when you are in the elevator under the fountain - not fountain-split itself): <br>"Underground"
-- > Last Split (helipad): <br>"Laboratory - End"
-
+<br>
+<table>
+  <tr>
+    <td><img src="https://i.imgur.com/3KjVXjp.png" alt="Mansion 1" width="400" height="300"></td>
+    <td>Last Mansion 1 split: <br>"Mansion 1"</td>
+  </tr>
+  <tr>
+    <td><img src="https://i.imgur.com/p2DC6k2.png" alt="Mansion 1" width="400" height="300"></td>
+    <td>Last Courtyard split before entering Guardhouse: <br>"Courtyard 1"</td>
+  </tr>
+  <tr>
+    <td><img src="https://i.imgur.com/WzsxSpF.png" alt="Mansion 1" width="400" height="300"></td>
+    <td>Last Guardhouse split: <br>"Guardhouse"</td>
+  </tr>
+  <tr>
+    <td><img src="https://i.imgur.com/OAOa34D.png" alt="Mansion 1" width="400" height="300"></td>
+    <td>Last Courtyard split before reentering Mansion: <br>"Courtyard 2"</td>
+  </tr>
+  <tr>
+    <td><img src="https://i.imgur.com/sivIxHM.png" alt="Mansion 1" width="400" height="300"></td>
+    <td>Last Mansion 2 split: <br>"Mansion 2"</td>
+  </tr>
+  <tr>
+    <td><img src="https://i.imgur.com/a1oT5Xn.png" alt="Mansion 1" width="400" height="300"></td>
+    <td>Last Courtyard split before going into Underground: <br>"Courtyard 3"</td>
+  </tr>
+  <tr>
+    <td><img src="https://i.imgur.com/zfFEJbF.png" alt="Mansion 1" width="400" height="300"></td>
+    <td>Last Underground split before entering labs: <br>"Underground"</td>
+  </tr>
+  <tr>
+    <td><img src="https://i.imgur.com/sjsgpSI.png" alt="Mansion 1" width="400" height="300"></td>
+    <td>Last Split: <br>"Laboratory - End"</td>
+  </tr>
+</table>
+<br>
 You can add, delete and rename all other splits like you want.<br>
 Watch out: If you put more splits into a section than you are really using (for example you normally need 4 splits to cross Courtyard from Mansion to Guardhouse - but you have 10 splits here) the splits will stop until you had this amount of splits (doors, ladders, etc.) in this section. Timer will still be running so the run is still valid.
 
