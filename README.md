@@ -38,7 +38,7 @@ There are 3 possible ways to use this autosplitter:
 - Start your Livesplit and load up the biohazard splits you like to run
 - Livesplit will download the autosplitter automatically (if not: Splits Editor - Game Name: "Biohazard" or "Resident Evil")
 - Open "Splits Editor" (right click - edit layout)
-- You need to rename the following splits (without "" - watch caption) (if you don't know what rooms are mentioned, please watch the pictured Readme - link above):
+- You need to rename the following splits (without "" - watch caption – working for Jill and Chris - after renaming you are ready to go):
 <br>
 <table>
   <tr>
@@ -77,5 +77,5 @@ There are 3 possible ways to use this autosplitter:
 <br>
 You can add, delete and rename all other splits like you want.<br>
 Watch out: If you put more splits into a section than you are really using (for example you normally need 4 splits to cross Courtyard from Mansion to Guardhouse - but you have 10 splits here) the splits will stop until you had this amount of splits (doors, ladders, etc.) in this section. Timer will still be running so the run is still valid.
-
+<br>
 If you have any further questions, feel free to join the RESpeedruns Discord or directly contact one of the moderators from speedrun.com/re1
