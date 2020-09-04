@@ -11,8 +11,6 @@ Last updated: 09-04-2020<br>
 <b>Special thanks to:<br>
 clix_gaming | Daranzanjoll | deserteagle417 | DocNiederrheiner | MrZombieUK | OcNr1 | Raclesis | SephJul | StevenMayte | WitchRain</b>
 
-pictured version: LINK
-
 This version of the autosplitter works with every split-file (.lss) for Biohazard / Resident Evil 1 from here: https://www.speedrun.com/re1/resources
 
 There are 3 possible ways to use this autosplitter:
@@ -28,13 +26,13 @@ There are 3 possible ways to use this autosplitter:
 - Select your autosplitter (.asl) and click "OK"
 - You are now using your autosplitter
 
-NOTE: The old autosplitters will only work with the old split-files because the split-names are connected to each other.
+<i>NOTE: The old autosplitters will only work with the old split-files because the split-names are connected to each other.</i>
 
 2. I WANT TO USE THE NEW AUTOSPLITTER AND THE NEW SPLITS
+- Download new split-files (.lss) from https://www.speedrun.com/re1/resources
 - Start your Livesplit and load up the biohazard splits you like to run
 - Livesplit will download the autosplitter automatically and you are ready to run
-- If not: Open "Splits Editor" (right click - edit splits)
-- Select "Biohazard" or "Resident Evil" as Game Name
+- If not: Open "Splits Editor" (right click - edit splits) and select "Biohazard" or "Resident Evil" as Game Name
 
 3. I WANT TO USE THE NEW AUTOSPLITTER WITH MY OLD SPLITS (for keeping PB-times, etc.)
 - Start your Livesplit and load up the biohazard splits you like to run
