@@ -32,7 +32,7 @@ There are 3 possible ways to use this autosplitter:
 - Download new split-files (.lss) from https://www.speedrun.com/re1/resources
 - Start your Livesplit and load up the biohazard splits you like to run
 - Livesplit will download the autosplitter automatically and you are ready to run
-- If not: Open "Splits Editor" (right click - edit splits) and select "Biohazard" or "Resident Evil" as Game Name
+- If not: Open "Splits Editor" (right click - edit splits) and select "Biohazard" or "Resident Evil" as Game Name and hit the "Activate"-Button.
 
 3. I WANT TO USE THE NEW AUTOSPLITTER WITH MY OLD SPLITS (for keeping PB-times, etc.)
 - Start your Livesplit and load up the biohazard splits you like to run
