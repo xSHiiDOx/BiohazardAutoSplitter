@@ -31,11 +31,13 @@ startup
 	*	Message at beginning - if hit Button "Cancel" it opens the readme online
 	*/
 	
-	var message = MessageBox.Show(timer.Form, "Autosplitter for every category - including Category Extensions.\n" + "For more information (like using old autosplitter or update own splits) go to Readme by pressing CANCEL.\n" + "Report bugs / feedback to the moderators of RE1 on speedrun.com/re1.\n", "NEW AUTOSPLITTER", MessageBoxButtons.OKCancel);
-	if(message == DialogResult.Cancel)
-	{
-		Process.Start("https://github.com/xSHiiDOx/BiohazardAutoSplitter/blob/master/README.md");
-	}
+	/*
+	* 	var message = MessageBox.Show(timer.Form, "Autosplitter for every category - including Category Extensions.\n" + "For more information (like using old autosplitter or update own splits) go to Readme by pressing CANCEL.\n" + "Report bugs / feedback to the moderators of RE1 on speedrun.com/re1.\n", "NEW AUTOSPLITTER", MessageBoxButtons.OKCancel);
+	* 	if(message == DialogResult.Cancel)
+	* 	{
+	* 		Process.Start("https://github.com/xSHiiDOx/BiohazardAutoSplitter/blob/master/README.md");
+	* 	}
+	*/
 
 }
 isLoading
