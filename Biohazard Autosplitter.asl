@@ -2,7 +2,7 @@
  * 	BIOHAZARD / RESIDENT EVIL 1 (c) 1996 by Capcom
  *	Autosplitter for speedrunning with Livesplit
  *	Made by SHiiDO (twitch.tv/xshiidox - Discord: SHiiDO#4555)
- *	Last updated: 09-04-2020
+ *	Last updated: 03-23-2021
  *
  *	Special thanks to:
  *	clix_gaming, Daranzanjoll, deserteagle417, DocNiederrheiner, MrZombieUK, OcNr1, Raclesis, SephJul, StevenMayte & WitchRain
@@ -29,6 +29,7 @@ startup
 {
 	/*
 	*	Message at beginning - if hit Button "Cancel" it opens the readme online
+	*	Message deactivated
 	*/
 	
 	/*
