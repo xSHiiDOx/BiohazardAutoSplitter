@@ -76,6 +76,9 @@ split
 	if(timer.CurrentSplit.Name == "Laboratory - End")
 	{
 		return current.flags1 == 0;
+	} else if(timer.CurrentSplit.Name == "End")	// Prevents old splits from ending to early - Bugfix 03-23-2021
+	{
+		return current.flags1 == 0;
 	} else if(timer.CurrentSplit.Name == "Underground")
 	{
 		return current.room_ID == 0 && current.stage_ID == 4;
