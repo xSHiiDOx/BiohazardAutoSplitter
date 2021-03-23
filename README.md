@@ -6,12 +6,12 @@ R E A D M E
 BIOHAZARD / RESIDENT EVIL 1 (c) 1996 Capcom<br>
 Autosplitter for speedrunning with Livesplit<br>
 by SHiiDO (twitch.tv/xshiidox - Discord: SHiiDO#4555)<br>
-Last updated: 03-05-2021<br>
+Last updated: 03-23-2021<br>
 
 <b>Special thanks to:<br>
 clix_gaming | Daranzanjoll | deserteagle417 | DocNiederrheiner | MrZombieUK | OcNr1 | Raclesis | SephJul | StevenMayte | WitchRain</b>
 
-This version of the autosplitter works with every split-file (.lss) for Biohazard / Resident Evil 1 from here: https://www.speedrun.com/re1/resources
+This version of the autosplitter works with every split-file (.lss) for Biohazard / Resident Evil 1 from here: https://www.speedrun.com/residentevil/resources
 
 There are 3 possible ways to use this autosplitter:
 
@@ -75,7 +75,7 @@ There are 3 possible ways to use this autosplitter:
   </tr>
 </table>
 <br>
-You can add, delete and rename all other splits like you want.<br>
+You can add, delete and rename all other splits like you want. Important: The very last split has to be the name "Laboratory - End" or "End", otherwise your splits can end early.<br>
 Watch out: If you put more splits into a section than you are really using (for example you normally need 4 splits to cross Courtyard from Mansion to Guardhouse - but you have 10 splits here) the splits will stop until you had this amount of splits (doors, ladders, etc.) in this section. Timer will still be running so the run is still valid.
 <br>
-If you have any further questions, feel free to join the RESpeedruns Discord or directly contact one of the moderators from speedrun.com/re1
+If you have any further questions, feel free to join the RESpeedruns Discord or directly contact one of the moderators from speedrun.com/residentevil
